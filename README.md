@@ -1,1 +1,1 @@
-# QALAB_Practica
+Respositorio de qalabPractica
